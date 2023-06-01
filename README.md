@@ -7,4 +7,4 @@ This was our first homework challenge of the UNC full stack developer course. We
 ![An image of the Horiseon homepage.](./assets/01-html-css-git-homework-demo.png)
 
 ## Deployed Application
-https://caitlinramsey.github.io/Horiseon-Homework/
+https://caitlinramsey.github.io/horiseon-homepage/

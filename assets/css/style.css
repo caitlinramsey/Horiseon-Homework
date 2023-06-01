@@ -14,7 +14,7 @@ body {
 
 /*this is applying these characteristics to the header section*/
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -23,20 +23,20 @@ body {
 
 /*this is applying these characteristics to the h1 contained within the header*/
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 /*this is applying these characteristics to the seo span within the header*/
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
 /*this is applying these characteristics to the links div within the header*/
 
-.header div {
+header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -46,13 +46,13 @@ body {
 
 /*this is applying these characteristics to the unordered list within the header*/
 
-.header div ul {
+header div ul {
     list-style-type: none;
 }
 
 /*this is applying these characteristics to the unordered list elements within the header*/
 
-.header div ul li {
+header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -176,7 +176,7 @@ p {
 
 /*this is applying these characteristics to the footer section*/
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -185,6 +185,6 @@ p {
 
 /*this is applying these characteristics to the footer h2 tags*/
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
